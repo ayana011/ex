@@ -1,0 +1,69 @@
+
+.header{
+    display: flex;
+
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.hero{
+    display: flex;
+    padding-top: 300px;
+    margin-left: 100px;
+
+}
+.header-hero{
+    display: flex;
+    padding-top: 300px;
+    margin-left: 100px;
+}
+.info{
+    text-align: center;
+    margin-top: 100px;
+}
+.title{
+    color: rgba(241, 98, 20, 1);
+}
+.ihfo-title{
+    margin-left: 300px;
+    margin-top: 200px;
+}
+.nor{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.btn{
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+.btnn{
+    padding: 20px 20px;
+    border-radius: 5px;
+    background: rgba(241, 98, 20, 1);
+}
+.section{
+    margin-left: 200px;
+}
+.customer{
+    text-align: center;
+}
+.roun{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 28px;
+}
+.fourd{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    margin-bottom: 0px;
+}
+
+
+   
